@@ -2,7 +2,7 @@
   <main class="main">
 
     <!-- Hero Section -->
-
+    
     <!-- /Hero Section -->
 
     <!-- Featured Services Section -->
@@ -34,7 +34,7 @@
     <!-- /Testimonials Section -->
 
     <!-- Contact Section -->
-     
+
     <!-- /Contact Section -->
 
   </main>
