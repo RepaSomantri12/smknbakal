@@ -49,9 +49,9 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.php#hero" class="active">Home</a></li>
-          <li><a href="index.php#about">About</a></li>
-          <li><a href="index.php#features">Features</a></li>
-          <li><a href="index.php#services">Services</a></li>
+          <li><a href="index.php#about">Tentang</a></li>
+          <li><a href="index.php#features">Jurusan</a></li>
+          <li><a href="index.php#services">Fasilitas</a></li>
           <li><a href="index.php#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
