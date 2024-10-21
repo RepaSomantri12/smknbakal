@@ -39,12 +39,12 @@
       </div>
     </div><!-- End Service Item -->
 
-    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300"
       <div class="service-item item-teal position-relative">
         <i class="bi bi-easel icon"></i>
-        <div>
+       <div>
           <h3>RUANGAN</h3>
-          <p>Jurusan Teknik Kendaraan Ringan (kami mempunyai ruangan yaitu,r wakasek,r perpustakaan,r guru,r kantong,kantin,mesjid,wc </p>
+          <p>Jurusan Teknik Kendaraan Ringan (kami mempunyai ruangan yaitu,r wakasek,r perpustakaan,r guru,r kantong,kantin,mesjid,w )</p>
           <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
