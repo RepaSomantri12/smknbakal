@@ -43,21 +43,21 @@
 
       <a href="index.php" class="logo d-flex align-items-center me-auto">
         <img src="assets/img/logo.png" alt="">
-        <h1 class="sitename">QuickStart</h1>
+        <h1 class="sitename">SMKBAKAL</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.php#hero" class="active">Home</a></li>
           <li><a href="index.php#about">About</a></li>
-          <li><a href="index.php#features">Features</a></li>
-          <li><a href="index.php#services">Services</a></li>
+          <li><a href="index.php#features">Jurusan</a></li>
+          <li><a href="index.php#services">Fasilitas</a></li>
           <li><a href="index.php#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="index.php#about">Get Started</a>
+      <a class="btn-getstarted" href="index.php#about">LOGIN</a>
 
     </div>
   </header>
