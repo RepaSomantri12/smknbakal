@@ -19,8 +19,7 @@
           <h3>Ruang kelas
         
           </h3>
-          <p>"Seni di kelas tidak hanya memacu kreativitas, tetapi juga menginspirasi pembelajaran,Ruang kelas: Tempat utama proses belajar-mengajar, dilengkapi meja, kursi, papan tulis, dan proyektor 
-          ,sekolah kami menyediakan 36 kelas
+          <p>"Seni di kelas tidak hanya memacu kreativitas, tetapi juga menginspirasi pembelajaran,Ruang kelas: Tempat utama proses belajar-mengajar, dilengkapi meja, kursi, papan tulis, dan proyektor ,sekolah kami menyediakan 36 kelas
 
           .</p>
           <a href="#" class="read-more stretched-link">Pelajari Lebih Lanjut <i class="bi bi-arrow-right"></i></a>
@@ -34,9 +33,7 @@
         <i class="bi bi-broadcast icon"></i>
         <div>
           <h3>LAB</h3>
-          <p>sekolah kami menyediakan lab untuk setiap jurusan,setiap lab mempunyai bahan pokok sesuai jurusan,AC
-
-.</p>
+          <p>sekolah kami menyediakan lab untuk setiap jurusan,setiap lab mempunyai bahan pokok sesuai jurusan,AC.</p>
           <a href="#" class="read-more stretched-link">Pelajari Lebih Lanjut <i class="bi bi-arrow-right"></i></a>
 
         </div>
