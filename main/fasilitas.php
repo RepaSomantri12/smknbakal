@@ -5,6 +5,7 @@
 <div class="container section-title" data-aos="fade-up">
   <h2>Fasilitas</h2>
   <p>"Kesuksesan dimulai dari kesungguhan belajar di sekolah"</p>
+
 </div><!-- End Section Title -->
 
 <div class="container">
@@ -23,6 +24,7 @@
 
           .</p>
           <a href="#" class="read-more stretched-link">Pelajari Lebih Lanjut <i class="bi bi-arrow-right"></i></a>
+
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -36,6 +38,7 @@
 
 .</p>
           <a href="#" class="read-more stretched-link">Pelajari Lebih Lanjut <i class="bi bi-arrow-right"></i></a>
+
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -43,10 +46,12 @@
     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
       <div class="service-item item-teal position-relative">
         <i class="bi bi-easel icon"></i>
+
        <div>
           <h3>KANTIN</h3>
           <p>kantin kami menyediakan macam macam makanan dan minuman,tentu sekolah kami makanan nya berkualitas,bergizi,enak,sehat,dan aman,kantin kami lebih dari 1, di setiap jurusan ada </p>
           <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
+
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -59,6 +64,7 @@
           <p> Sekolah kami menyediakn fasilitas ruangan di antaranya,ruang osis,ruang kantor,ruang guru,ruang bk,ruang perpustakaan,ruang olahraga,ruang kesehatan,ruang seni,mesjid,wc
           </p>
           <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
+
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -71,7 +77,7 @@
           <p>Sekolah kami menyediakan beberapa eskul diantaranya eskul,bola volly,futsal,silat,tinju,basket,seni,pramuka,paskibra,dan les bahasa
           .</p>
           <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
-        </div>
+
       </div>
     </div><!-- End Service Item -->
 
