@@ -52,7 +52,7 @@
           <li><a href="index.php#about">Tentang</a></li>
           <li><a href="index.php#features">Jurusan</a></li>
           <li><a href="index.php#services">Fasilitas</a></li>
-          <li><a href="index.php#contact">Contact</a></li>
+          <li><a href="index.php#contact">Kontak</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
