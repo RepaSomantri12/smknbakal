@@ -6,7 +6,7 @@
   <div class="row gy-4">
 
     <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-      <p class="who-we-are">Who We Are</p>
+      <p class="who-we-are">Siapa Kami?</p>
       <h3>Unleashing Potential with Creative Strategy</h3>
       <p class="fst-italic">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore

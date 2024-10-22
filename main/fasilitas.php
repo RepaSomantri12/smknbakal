@@ -19,10 +19,10 @@
         
           </h3>
           <p>"Seni di kelas tidak hanya memacu kreativitas, tetapi juga menginspirasi pembelajaran,Ruang kelas: Tempat utama proses belajar-mengajar, dilengkapi meja, kursi, papan tulis, dan proyektor 
-          ,sekolah kami menyediakan 36 kelas,kelas kami menyediakan fasilitas seperti meja,kursi,papan tulis,lemari buku,ruang berkualitas"
+          ,sekolah kami menyediakan 36 kelas
 
           .</p>
-          <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+          <a href="#" class="read-more stretched-link">Pelajari Lebih Lanjut <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -35,7 +35,7 @@
           <p>sekolah kami menyediakan lab untuk setiap jurusan,setiap lab mempunyai bahan pokok sesuai jurusan,AC
 
 .</p>
-          <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+          <a href="#" class="read-more stretched-link">Pelajari Lebih Lanjut <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -44,9 +44,9 @@
       <div class="service-item item-teal position-relative">
         <i class="bi bi-easel icon"></i>
        <div>
-          <h3>RUANGAN</h3>
-          <p>Jurusan Teknik Kendaraan Ringan (kami mempunyai ruangan yaitu,r wakasek,r perpustakaan,r guru,r kantong,kantin,mesjid,w )</p>
-          <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+          <h3>KANTIN</h3>
+          <p>kantin kami menyediakan macam macam makanan dan minuman,tentu sekolah kami makanan nya berkualitas,bergizi,enak,sehat,dan aman,kantin kami lebih dari 1, di setiap jurusan ada </p>
+          <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -55,10 +55,10 @@
       <div class="service-item item-red position-relative">
         <i class="bi bi-bounding-box-circles icon"></i>
         <div>
-          <h3>TKJ(teknik komputer jaringan)</h3>
-          <p> TKJ merupakan sebuah kejuruan yang mempelajari tentang cara merakit komputer, mengenal dan mempelajari komponen hardware apa saja yang ada di dalam komputer, merakit komputer serta fokus mempelajari jaringan dasar.
+          <h3>RUANGAN</h3>
+          <p> Sekolah kami menyediakn fasilitas ruangan di antaranya,ruang osis,ruang kantor,ruang guru,ruang bk,ruang perpustakaan,ruang olahraga,ruang kesehatan,ruang seni,mesjid,wc
           </p>
-          <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+          <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -67,10 +67,10 @@
       <div class="service-item item-indigo position-relative">
         <i class="bi bi-calendar4-week icon"></i>
         <div>
-          <h3>TELIN(teknik elektronika).</h3>
-          <p>Jurusan TELIN atau Teknik Elektronika Industri adalah jurusan yang mempelajari sistem kontrol dan perawatan peralatan industri berbasis electrical, microprocessor, dan microcontroller. 
+          <h3>ESKUL.</h3>
+          <p>Sekolah kami menyediakan beberapa eskul diantaranya eskul,bola volly,futsal,silat,tinju,basket,seni,pramuka,paskibra,dan les bahasa
           .</p>
-          <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+          <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
     </div><!-- End Service Item -->
@@ -79,10 +79,10 @@
       <div class="service-item item-pink position-relative">
         <i class="bi bi-chat-square-text icon"></i>
         <div>
-          <h3>TBSM(teknik dan bisnis sepeda motor)</h3>
-          <p>Jurusan Teknik dan Bisnis Sepeda Motor (TBSM) adalah salah satu program keahlian dalam bidang teknik otomotif yang mempelajari seluk-beluk sepeda motor, khususnya keterampilan pelayanan jasa mekanik:
+          <h3>LAPANGAN</h3>
+          <p>Tentu saja di sekolah kami menyediakan lapang untuk siswa melakukan aktifitas di antaranya,lapangan upacara,lapangan futsal,lapangan volly,ring tinju,lapang basket,dan tidak lupa dngan parkiran kendaraan untuk siswa dan guru
             </p>
-          <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+          <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
     </div><!-- End Service Item -->

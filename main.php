@@ -7,7 +7,7 @@
     include "main/about.php";
     include "main/client.php";
     include "main/features.php";
-    include "main/.php";
+    include "main/services.php";
     include "main/more_features.php";
     include "main/pricing.php";
     include "main/faq.php";
