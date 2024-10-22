@@ -4,7 +4,7 @@
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
   <h2>FASILITAS</h2>
-  <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+  <p>Temukan Fasilitas Terbaik di SMK NEGERI BANTARKALONG!</p>
 </div><!-- End Section Title -->
 
 <div class="container">
