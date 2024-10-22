@@ -42,7 +42,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
       <a href="index.php" class="logo d-flex align-items-center me-auto">
-        <img src="assets/img/logo.png" alt="">
+        <img src="smk.jpg" alt="">
         <h1 class="sitename">SMKBANTARKALONG</h1>
       </a>
 
