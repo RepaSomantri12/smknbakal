@@ -3,7 +3,7 @@
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
-  <h2>FASILITAS</h2>
+  <h2>Fasilitas</h2>
   <p>"Kesuksesan dimulai dari kesungguhan belajar di sekolah"</p>
 </div><!-- End Section Title -->
 
