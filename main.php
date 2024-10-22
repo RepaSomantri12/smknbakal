@@ -1,5 +1,5 @@
 
-  <main class="main">
+<main class="main">
 <?php
     $page=$_GET['page'];
 
