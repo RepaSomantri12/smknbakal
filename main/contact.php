@@ -2,8 +2,8 @@
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
-    <h2>Get in Touch</h2>
-    <p>We would love to hear from you! Whether you have a question, feedback, or just want to say hello, feel free to reach out.</p>
+    <h2>Hubungi Kami</h2>
+    <p>Kami senang mendengar dari Anda! Jika Anda memiliki pertanyaan, masukan, atau hanya ingin menyapa, jangan ragu untuk menghubungi kami.</p>
   </div><!-- End Section Title -->
 
   <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -21,7 +21,7 @@
       <div class="col-lg-3 col-md-6">
         <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
           <i class="bi bi-telephone"></i>
-          <h3>No Hp</h3>
+          <h3>No Telepon</h3>
           <p>+(0265) 581377</p>
         </div>
       </div><!-- End Info Item -->
@@ -29,8 +29,8 @@
       <div class="col-lg-3 col-md-6">
         <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
           <i class="bi bi-envelope"></i>
-          <h3>Email </h3>
-          <p>@smknegeribantarkalong.com</p>
+          <h3>Email</h3>
+          <p>info@smknegeribantarkalong.com</p>
         </div> 
       </div><!-- End Info Item -->
 
@@ -38,7 +38,7 @@
 
     <div class="row gy-4 mt-1">
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-        <iframe src="https://www.google.com/maps/place/SMK+Negeri+Bantarkalong/@-7.6214198,108.100807,14z/data=!4m6!3m5!1s0x2e65e3bb34a35c21:0x57a71906404ba203!8m2!3d-7.6214198!4d108.1111067!16s%2Fg%2F1hm54101l?hl=id&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D" frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100200.16247611768!2d108.1111067!3d-7.6214198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e65e3bb34a35c21%3A0x57a71906404ba203!2sSMK%20Negeri%20Bantarkalong!5e0!3m2!1sid!2sid!4v1615633800030!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy"></iframe>
       </div><!-- End Google Maps -->
 
       <div class="col-lg-6">
@@ -46,27 +46,27 @@
           <div class="row gy-4">
 
             <div class="col-md-6">
-              <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+              <input type="text" name="name" class="form-control" placeholder="Nama Anda" required>
             </div>
 
             <div class="col-md-6">
-              <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+              <input type="email" class="form-control" name="email" placeholder="Email Anda" required>
             </div>
 
             <div class="col-md-12">
-              <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+              <input type="text" class="form-control" name="subject" placeholder="Subjek" required>
             </div>
 
             <div class="col-md-12">
-              <textarea class="form-control" name="message" rows="6" placeholder="Your Message" required></textarea>
+              <textarea class="form-control" name="message" rows="6" placeholder="Pesan Anda" required></textarea>
             </div>
 
             <div class="col-md-12 text-center">
               <div class="loading">Loading</div>
               <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
+              <div class="sent-message">Pesan Anda telah terkirim. Terima kasih!</div>
 
-              <button type="submit" class="btn btn-primary">Send Message</button>
+              <button type="submit" class="btn btn-primary">Kirim Pesan</button>
             </div>
 
           </div>
@@ -77,4 +77,4 @@
 
   </div>
 
-</section>
+</section
