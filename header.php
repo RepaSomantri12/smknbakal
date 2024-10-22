@@ -48,11 +48,12 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="index.php#hero" class="active">Home</a></li>
-          <li><a href="index.php#about">About</a></li>
-          <li><a href="index.php#features">Jurusan</a></li>
-          <li><a href="index.php#services">Fasilitas</a></li>
-          <li><a href="index.php#contact">Contact</a></li>
+          <li><a href="index.php?page=home" class="active">Home</a></li>
+          <li><a href="index.php?page=about">About</a></li>
+          <li><a href="index.php?page=jurusan">Jurusan</a></li>
+          <li><a href="index.php?page=fasilitas">Fasilitas</a></li>
+          <li><a href="index.php?page=contact">Contact</a></li>
+          <l1><a href="index.php?page=kegiatan">Kegiatan</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
