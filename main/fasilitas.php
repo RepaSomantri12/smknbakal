@@ -19,9 +19,7 @@
           <h3>Ruang kelas
         
           </h3>
-          <p>"Seni di kelas tidak hanya memacu kreativitas, tetapi juga menginspirasi pembelajaran,Ruang kelas: Tempat utama proses belajar-mengajar, dilengkapi meja, kursi, papan tulis, dan proyektor ,sekolah kami menyediakan 36 kelas
-
-          .</p>
+          <p>"Seni di kelas tidak hanya memacu kreativitas, tetapi juga menginspirasi pembelajaran,Ruang kelas: Tempat utama proses belajar-mengajar, dilengkapi meja, kursi, papan tulis, dan proyektor ,sekolah kami menyediakan 36 kelas.</p>
           <a href="#" class="read-more stretched-link">Pelajari Lebih Lanjut <i class="bi bi-arrow-right"></i></a>
 
         </div>
@@ -71,8 +69,7 @@
         <i class="bi bi-calendar4-week icon"></i>
         <div>
           <h3>ESKUL.</h3>
-          <p>Sekolah kami menyediakan beberapa eskul diantaranya eskul,bola volly,futsal,silat,tinju,basket,seni,pramuka,paskibra,dan les bahasa
-          .</p>
+          <p>Sekolah kami menyediakan beberapa eskul diantaranya eskul,bola volly,futsal,silat,tinju,basket,seni,pramuka,paskibra,dan les.</p>
           <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
 
       </div>
@@ -83,8 +80,7 @@
         <i class="bi bi-chat-square-text icon"></i>
         <div>
           <h3>LAPANGAN</h3>
-          <p>Tentu saja di sekolah kami menyediakan lapang untuk siswa melakukan aktifitas di antaranya,lapangan upacara,lapangan futsal,lapangan volly,ring tinju,lapang basket,dan tidak lupa dngan parkiran kendaraan untuk siswa dan guru
-            </p>
+          <p>Tentu saja di sekolah kami menyediakan lapang untuk siswa melakukan aktifitas di antaranya,lapangan upacara,lapangan futsal,lapangan volly,ring tinju,lapang basket,dan tidak lupa dngan parkiran kendaraan untuk siswa dan guru</p>
           <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
