@@ -1,5 +1,5 @@
 
-<section id="features" class="features section">
+<section id="features" class="features section mt-5">
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">

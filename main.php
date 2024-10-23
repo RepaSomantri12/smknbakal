@@ -10,7 +10,6 @@
       } else {
         include "main/404.php";
       }
-      include $navigation;
     }else {
       include "main/home.php";
     }
