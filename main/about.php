@@ -12,11 +12,10 @@
       SMK Negeri Bantarkalong adalah salah satu Sekolah Menengah Kejuruan Negeri yang berfokus pada teknik industri, manajemen, farmasi, serta pengembangan dan difusi pengetahuan secara regional dan global. Dengan prestasi yang terus diraihnya SMK Negeri Bantarkalong berada di peringkat sekolah terbaik di Kabupaten Tasikmalaya baik dalam bidang akdemik maupun non akademik.
       </p>
       <ul>
-        <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-        <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-        <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+        <li><i class="bi bi-check-circle"></i> <span>Visi<br>Lembaga Pendidikan dan Pelatihan yang Unggul Menghasilkan Sumber Daya  Manusia Bertaqwa,berjiwa usaha,dan Kompetitif di Nasional dan Internasional</br></span></li>
+        <li><i class="bi bi-check-circle"></i> <span>Misi<br>1.Meningkatkan Pembelajaran untuk Menghasilkan Lulusan yang Beriman,Bertaqwa,Berakhlakul Karimah,Berjiwa Wirausaha dan Berbudaya Bangsa.<br>2.Mewujudkan Lembaga SMK Negeri Bantarkalong yang Berperan sebagai Pusat Pendidikan dan Pelatihan Ilmu Pengetahuan dan Teknologi serta Keterampilan untuk Meningkatkan Sumber Daya Daerah.<br>3.Mewujudkan Lembaga SMK Negeri Bantarkalong yang Berperan sebagai Pusat Layanan Masyarakat dalam Rangka Mengembangkan pembangunan Bangsa.<br>4.Memperkuat Tatakelola Melalui Penerapan SMM ISO 9001:2008 untuk Meningkatkan Pelayanan kepada Pelanggan.<br>5.Meningkatkan Fasilitas sarana dan prasarana untuk memenuhi standar pelayanan pembelajaran.<br>6.Menciptakan Lingkungan Fisik sekolah yang bersih,rapi,aman dan nyaman berwawasan Green School.</span></li>
       </ul>
-      <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+      <a href="#" class="read-more"><span>Lihat Lebih Banyak</span><i class="bi bi-arrow-right"></i></a>
     </div>
 
     <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
