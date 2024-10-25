@@ -36,7 +36,8 @@
     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
       <div class="service-item item-teal position-relative">
         <i class="bi bi-easel icon"></i>
-        <div>
+        <div>'
+        '
           <h3>KANTIN/MESJID</h3>
           <p>kantin kami menyediakan macam macam makanan dan minuman,tentu semua nya berkualitas,halal,bergizi,enak,sodium_crypto_generichash_init.nah untuk mesjig kami mempunyai 1 mesjid dengan dua lantai,lantai pertama di gunakan untuk laki-laki,lantai kedua di gunakan untuk perempuan,di setiap pinggir mesjid terdapat tempat untuk berwudhu </p>
           <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
