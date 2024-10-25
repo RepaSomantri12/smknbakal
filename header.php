@@ -43,17 +43,18 @@
 
       <a href="index.php" class="logo d-flex align-items-center me-auto">
         <img src="smk.jpg" alt="">
-        <h1 class="sitename">SMKBANTARKALONG</h1>
+        <h1 class="sitename">SMKN BANTARKALONG</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.php?page=home" class="active">Home</a></li>
           <li><a href="index.php?page=about">About</a></li>
-          <li><a href="index.php?page=jurusan">Jurusan</a></li>
+          <li><a href="index.php?page=jurusan">JURUSAN</a></li>
           <li><a href="index.php?page=fasilitas">Fasilitas</a></li>
-          <li><a href="index.php?page=contact">Contact</a></li>
+          <li><a href="index.php?page=contact">KONTAK</a></li>
           <l1><a href="index.php?page=kegiatan">Kegiatan</a></li>
+
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>

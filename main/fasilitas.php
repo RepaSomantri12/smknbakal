@@ -68,8 +68,8 @@
       <div class="service-item item-indigo position-relative">
         <i class="bi bi-calendar4-week icon"></i>
         <div>
-          <h3>tempat parkir</h3>
-          <p>Sekolah kami menyediakan tempat parkir untuk para siswa dan guru di SMKN BANTARKALONG ,bertempatan di dekat lab rpl,lab telin,saung anggar,dan parkiran guru terletak di dekat ruang guru.</p>
+          <h3>ESKUL.</h3>
+          <p>Sekolah kami menyediakan beberapa eskul diantaranya eskul,bola volly,futsal,silat,tinju,basket,seni,pramuka,paskibra,dan les.</p>
           <a href="#" class="read-more stretched-link">pelajari lebih lanjut <i class="bi bi-arrow-right"></i></a>
 
       </div>
