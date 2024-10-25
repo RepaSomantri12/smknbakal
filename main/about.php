@@ -1,16 +1,15 @@
 
-<section id="about" class="about section">
+<section id="about" class="about section mt-5">
 
 <div class="container">
 
   <div class="row gy-4">
 
     <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-      <p class="who-we-are">Who We Are</p>
-      <h3>Unleashing Potential with Creative Strategy</h3>
+      <p class="who-we-are"></p>
+      <h3>Tentang SMK Negeri Bantarkalong</h3>
       <p class="fst-italic">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua.
+      SMK Negeri Bantarkalong adalah salah satu Sekolah Menengah Kejuruan Negeri yang berfokus pada teknik industri, manajemen, farmasi, serta pengembangan dan difusi pengetahuan secara regional dan global. Dengan prestasi yang terus diraihnya SMK Negeri Bantarkalong berada di peringkat sekolah terbaik di Kabupaten Tasikmalaya baik dalam bidang akdemik maupun non akademik.
       </p>
       <ul>
         <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
@@ -23,18 +22,27 @@
     <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
       <div class="row gy-4">
         <div class="col-lg-6">
-          <img src="assets/img/about-company-1.jpg" class="img-fluid" alt="">
+          <img src="images/rpl.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6">
+          <img src="images/tkr.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-6">
+          <img src="images/tbsm.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-6">
+          <img src="images/fkk.jpg" class="img-fluid" alt="">
+        </div>
+        <!-- <div class="col-lg-6">
           <div class="row gy-4">
             <div class="col-lg-12">
-              <img src="assets/img/about-company-2.jpg" class="img-fluid" alt="">
+              <img src="images/tbsm.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-12">
-              <img src="assets/img/about-company-3.jpg" class="img-fluid" alt="">
+              <img src="images/tkr.jpg" class="img-fluid" alt="">
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
 
     </div>

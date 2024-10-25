@@ -1,10 +1,12 @@
-<section id="features" class="features section">
 
-  <!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>Jurusan di SMKN BANTARKALONG</h2>
-    <p>Kenali berbagai jurusan yang ditawarkan di SMKN Bantarkalong untuk masa depan yang lebih baik.</p>
-  </div><!-- End Section Title -->
+
+<section id="features" class="features section mt-5">
+
+<!-- Section Title -->
+<div class="container section-title" data-aos="fade-up">
+  <h2>Jurusan di SMKN BANTARKALONG</h2>
+  <p>Kenali berbagai jurusan yang ditawarkan di SMKN BANTARKALONG untuk masa depan yang lebih baik</p>
+</div><!-- End Section Title -->
 
   <div class="container">
     <div class="row justify-content-between">
@@ -76,7 +78,6 @@
           </li>
         </ul><!-- End Tab Nav -->
 
-      </div>
 
       <div class="col-lg-6">
         <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
@@ -111,9 +112,38 @@
 
         </div>
       </div>
+      <div class="tab-content" data-aos="fade-up" data-aos-delay="100">
 
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <img src="images/tkj.jpg" alt="" class="img-fluid">
+        </div><!-- End Tab Content Item -->
+
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <img src="images/rpl.jpg" alt="" class="img-fluid">
+        </div><!-- End Tab Content Item -->
+
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <img src="images/telka.jpg" alt="" class="img-fluid">
+        </div><!-- End Tab Content Item -->
+
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <img src="images/ap.jpg" alt="" class="img-fluid">
+        </div><!-- End Tab Content Item -->
+
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <img src="images/tbsm.jpg" alt="" class="img-fluid">
+        </div><!-- End Tab Content Item -->
+
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <img src="images/tkr.jpg" alt="" class="img-fluid">
+        </div><!-- End Tab Content Item -->
+
+        <div class="tab-pane fade active show" id="features-tab-1">
+          <img src="images/fkk.jpg" alt="" class="img-fluid">
+        </div><!-- End Tab Content Item -->
+      </div>
     </div>
+</div>
 
-  </div>
-</section>
+
 
