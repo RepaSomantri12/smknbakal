@@ -32,6 +32,15 @@
         <div class="col-lg-6">
           <img src="images/fkk.jpg" class="img-fluid" alt="">
         </div>
+        <div class="col-lg-6">
+          <img src="images/telka.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-6">
+          <img src="images/ap.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-6">
+          <img src="images/tkj.jpg" class="img-fluid" alt="">
+        </div>
         <!-- <div class="col-lg-6">
           <div class="row gy-4">
             <div class="col-lg-12">
