@@ -4,14 +4,14 @@
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
-<<<<<<< HEAD
+
   <h2>Jurusan</h2>
   <p>Mimpi akan jadi kenyataan jika kita punya keberanian.
   </p>
-=======
+
   <h2>Jurusan di SMKN BANTARKALONG</h2>
   <p>Kenali berbagai jurusan yang ditawarkan di SMKN BANTARKALONG untuk masa depan yang lebih baik</p>
->>>>>>> 9253ce7851ff43331926505e39753b591d2f64b0
+
 </div><!-- End Section Title -->
 
   <div class="container">
@@ -84,7 +84,7 @@
           </li>
         </ul><!-- End Tab Nav -->
 
-<<<<<<< HEAD
+
       <ul class="nav nav-tabs" data-aos="fade-up" data-aos-delay="100">
         <li class="nav-item">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
@@ -98,33 +98,7 @@
             </div>
           </a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
-            <i class="bi bi-box-seam"></i>
-            <div>
-              <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
-              <p>
-                Recusandae atque nihil. Delectus vitae non similique magnam molestiae sapiente similique
-                tenetur aut voluptates sed voluptas ipsum voluptas
-              </p>
-            </div>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
-            <i class="bi bi-brightness-high"></i>
-            <div>
-              <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
-              <p>
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-                Debitis nulla est maxime voluptas dolor aut
-              </p>
-            </div>
-          </a>
-        </li>
-      </ul><!-- End Tab Nav -->
-=======
->>>>>>> 9253ce7851ff43331926505e39753b591d2f64b0
+        
 
       <div class="col-lg-6">
         <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
