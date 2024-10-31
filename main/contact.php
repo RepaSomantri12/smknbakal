@@ -1,5 +1,5 @@
 
-<section id="contact" class="contact section">
+<section id="contact" class="contact section mt-5">
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">

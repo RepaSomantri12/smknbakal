@@ -58,7 +58,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="index.php#about">LOGIN</a>
+      <a class="btn-getstarted" href="https://admin.smknegeribantarkalong.sch.id" target="blank()">LOGIN</a>
 
     </div>
   </header>
