@@ -18,9 +18,6 @@
     <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-delay="200">
       <div class="row gy-4">
         <div class="col-lg-6">
-          <img src="assets/img/about-company-1.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-lg-6">
           <img src="images/tkr.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6">
@@ -37,17 +34,6 @@
         </div>
         <div class="col-lg-6">
           <img src="images/tkj.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-lg-6">
-
-          <div class="row gy-4">
-            <div class="col-lg-12">
-              <img src="assets/img/about-company-2.jpg" class="img-fluid" alt="">
-            </div>
-            <div class="col-lg-12">
-              <img src="assets/img/about-company-3.jpg" class="img-fluid" alt="">
-            </div>
-          </div>
         </div>
       </div>
 
