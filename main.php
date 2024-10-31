@@ -11,7 +11,6 @@
       } else {
         include "main/404.php";
       }
-      include "main/home.php";
     }
 ?>
   </main>
