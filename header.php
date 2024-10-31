@@ -48,12 +48,13 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="index.php?page=home" id="home" class="active">Home</a></li>
-          <li><a href="index.php?page=about" id="home">Profile</a></li>
-          <li><a href="index.php?page=jurusan" id="home">Kompetensi Keahlian</a></li>
-          <li><a href="index.php?page=fasilitas" id="home">Fasilitas</a></li>
-          <li><a href="index.php?page=contact" id="home">Contact</a></li>
-          <l1><a href="index.php?page=kegiatan" id="home">Kegiatan</a></li>
+          <li><a href="index.php?page=home" class="active">Home</a></li>
+          <li><a href="index.php?page=about">About</a></li>
+          <li><a href="index.php?page=jurusan">JURUSAN</a></li>
+          <li><a href="index.php?page=fasilitas">Fasilitas</a></li>
+          <li><a href="index.php?page=contact">KONTAK</a></li>
+          <l1><a href="index.php?page=kegiatan">Kegiatan</a></li>
+
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>

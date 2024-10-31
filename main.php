@@ -1,6 +1,7 @@
 
 <main class="main">
 <?php
+
     $page=$_GET['page'];
 
     if ($page = $page) {
@@ -10,7 +11,6 @@
       } else {
         include "main/404.php";
       }
-    }else {
       include "main/home.php";
     }
 ?>
