@@ -49,7 +49,7 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.php?page=home" class="active">Home</a></li>
-          <li><a href="index.php?page=about">Profil</a></li>
+          <li><a href="index.php?page=profil">Profil</a></li>
           <li><a href="index.php?page=jurusan">Kompetensi Keahlian</a></li>
           <li><a href="index.php?page=fasilitas">Fasilitas</a></li>
           <li><a href="index.php?page=contact">Kontak</a></li>
